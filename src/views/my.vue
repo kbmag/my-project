@@ -1,7 +1,7 @@
 <template>
   <div class="my" style="height: 100%">
     <view-box ref="viewBox" body-padding-top="46px">
-      <x-header slot="header" :left-options="{backText: ''}">个人中心</x-header>
+      <x-header slot="header" :left-options="{backText: ''}">个人中心kk</x-header>
       <div class="my-content">
         <div class="header-img">
           <blur :blur-amount=40 :url="url" style="height:180px;">
